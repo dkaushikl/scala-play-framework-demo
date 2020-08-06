@@ -1,5 +1,5 @@
 name := """scala-play-framework-demo"""
-organization := "com.example"
+organization := "com.scalademo"
 
 version := "1.0-SNAPSHOT"
 
