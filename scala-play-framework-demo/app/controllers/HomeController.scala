@@ -34,13 +34,13 @@ class HomeController @Inject()(val controllerComponents: ControllerComponents) e
       printNumberUntilValueIs100UsingForLoop(data)
 
       // Higher order functions
-      functionExample(25, multiplyBy2)
+      println(functionExample(25, multiplyBy2))
       // copy-pasted example from javat point site.
       // First it calls function example first and then it calls multiplyby2(25)
       // and eventually it calls 25 * 2 and finally it will return result
 
       // function composition example
-      functionExample(multiplyBy2(25), multiplyBy2)
+      println(functionExample(multiplyBy2(25), multiplyBy2))
       // answer of this example is 100
 
       //
@@ -52,8 +52,8 @@ class HomeController @Inject()(val controllerComponents: ControllerComponents) e
     a * 2
   }
 
-  def functionExample(a: Int, f: Int => AnyVal): Unit = {
-    println(f(a)) // Calling that function
+  def functionExample(a: Int, f: Int => AnyVal): AnyVal = {
+    f(a) // Calling that function
   }
 
   def findMatchUsingSwitchCase(data: Int, data1: Int, data2: Int, data3: Int): Any = {

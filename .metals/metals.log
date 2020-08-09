@@ -1,0 +1,396 @@
+2020.08.06 12:23:58 INFO  started: Metals version 0.9.2 in workspace 'D:\Old\scala-play-framework-demo' for client vscode.
+2020.08.06 12:23:58 INFO  time: initialize in 0.46s
+2020.08.06 12:23:59 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 12:23:59 INFO  no build target: using presentation compiler with only scala-library
+2020.08.06 12:24:01 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:25:59 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 12:26:05 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:26:06 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 12:26:06 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:26:08 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 12:26:08 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:26:08 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:26:37 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:26:38 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:26:41 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:32:42 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\test\controllers\HomeControllerSpec.scala
+2020.08.06 12:36:49 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 12:36:54 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:38:43 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:39:34 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:40:01 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:40:09 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:40:14 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:40:56 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:42:11 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 12:42:27 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 06, 2020 12:44:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 403
+2020.08.06 12:44:00 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 06, 2020 12:44:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 404
+2020.08.06 12:50:54 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 12:50:54 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+Align: top-level presets deprecated; use 'preset' subsection
+2020.08.06 12:50:57 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:02:26 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:02:26 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:02:26 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:02:26 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:02:26 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:02:28 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:02:35 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+Align: top-level presets deprecated; use 'preset' subsection
+2020.08.06 13:06:52 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+Align: top-level presets deprecated; use 'preset' subsection
+2020.08.06 13:09:41 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:09:45 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+Align: top-level presets deprecated; use 'preset' subsection
+2020.08.06 13:09:51 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+Align: top-level presets deprecated; use 'preset' subsection
+2020.08.06 13:09:57 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:16:41 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:17:54 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:17:56 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:18:32 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:18:32 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:18:42 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:18:54 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:18:54 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:18:54 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:18:55 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:18:55 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:18:55 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:18:55 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:18:57 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:18:57 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:19:43 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:19:43 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:19:43 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:20:14 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:20:15 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:20:29 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:20:29 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:20:29 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:21:15 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:21:15 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:21:16 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:21:20 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\models\User.model.scala
+2020.08.06 13:27:55 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:27:57 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:27:57 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:27:59 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:28:27 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:29:50 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:29:50 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:29:52 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 06, 2020 1:29:52 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Aug 06, 2020 1:29:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Request: error>[AnyContent]
+     while compiling: file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath C:\Users\Bhadresh\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.12\scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template
+       tree position: line 26 of file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    23     }
+    24 
+    25   def allUser() =
+    26     Action { implicit request: Request[AnyContent] {
+    27        HashMap<String, Object> result = new HashMap<String, Object>(){
+    28             {
+    29                 put("str", "String");
+scala.reflect.internal.FatalError: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Request: error>[AnyContent]
+     while compiling: file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath C:\Users\Bhadresh\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.12\scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template
+       tree position: line 26 of file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    23     }
+    24 
+    25   def allUser() =
+    26     Action { implicit request: Request[AnyContent] {
+    27        HashMap<String, Object> result = new HashMap<String, Object>(){
+    28             {
+    29                 put("str", "String");
+	at scala.reflect.internal.Reporting.abort(Reporting.scala:68)
+	at scala.reflect.internal.Reporting.abort$(Reporting.scala:64)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:28)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5671)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5688)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5724)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5808)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:116)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
+2020.08.06 13:29:54 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:29:54 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 06, 2020 1:29:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Aug 06, 2020 1:29:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Request: error>[AnyContent]
+     while compiling: file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath C:\Users\Bhadresh\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.12\scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template
+       tree position: line 26 of file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    23     }
+    24 
+    25   def allUser() =
+    26     Action { implicit request: Request[AnyContent] {
+    27        HashMap<String, Object> result = new HashMap<String, Object>(){
+    28             {
+    29                 put("str", "String");
+scala.reflect.internal.FatalError: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Request: error>[AnyContent]
+     while compiling: file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath C:\Users\Bhadresh\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.12\scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template
+       tree position: line 26 of file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    23     }
+    24 
+    25   def allUser() =
+    26     Action { implicit request: Request[AnyContent] {
+    27        HashMap<String, Object> result = new HashMap<String, Object>(){
+    28             {
+    29                 put("str", "String");
+	at scala.reflect.internal.Reporting.abort(Reporting.scala:68)
+	at scala.reflect.internal.Reporting.abort$(Reporting.scala:64)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:28)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5671)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5688)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5724)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5808)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:116)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
+2020.08.06 13:29:54 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:30:16 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 06, 2020 1:30:16 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Aug 06, 2020 1:30:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Request: error>[AnyContent]
+     while compiling: file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath C:\Users\Bhadresh\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.12\scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template
+       tree position: line 26 of file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    23     }
+    24 
+    25   def allUser() =
+    26     Action { implicit request: Request[AnyContent] {
+    27        HashMap<String, Object> result = new HashMap<String, Object>(){
+    28             {
+    29                 put("str", "String");
+scala.reflect.internal.FatalError: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Request: error>[AnyContent]
+     while compiling: file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath C:\Users\Bhadresh\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.12\scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template
+       tree position: line 26 of file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/controllers/HomeController.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    23     }
+    24 
+    25   def allUser() =
+    26     Action { implicit request: Request[AnyContent] {
+    27        HashMap<String, Object> result = new HashMap<String, Object>(){
+    28             {
+    29                 put("str", "String");
+	at scala.reflect.internal.Reporting.abort(Reporting.scala:68)
+	at scala.reflect.internal.Reporting.abort$(Reporting.scala:64)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:28)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5671)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5688)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5724)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5808)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:116)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
+2020.08.06 13:31:08 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:31:17 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:31:21 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:31:21 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:31:48 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:31:54 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:32:31 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:32:33 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:32:45 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:32:45 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:32:45 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:33:06 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:33:20 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:35:17 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:35:21 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:35:21 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:35:22 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:35:24 ERROR scalafmt: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala:26: error: ; expected but , found
+       HashMap<String, Object> result = new HashMap<String, Object>(){
+                     ^
+2020.08.06 13:35:46 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:37:18 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:37:18 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 06, 2020 1:37:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1499
+2020.08.06 13:37:18 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:37:18 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:37:22 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:38:09 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:38:29 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:38:32 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:38:32 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:38:41 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:38:41 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:38:41 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:01 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:39:17 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:17 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:19 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:39:19 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:21 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:21 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:22 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:22 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:22 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:24 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:39:26 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:26 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:26 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:26 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:39:26 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:26 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:39:49 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:41:32 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:41:34 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:41:43 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:41:52 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:41:52 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:41:52 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:41:52 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:42:26 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:42:30 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:42:32 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:42:48 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:42:50 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:42:56 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:44:28 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:44:31 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:44:31 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:44:32 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:44:33 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:44:33 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:44:33 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:44:33 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:45:04 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:45:05 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:45:20 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:45:20 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:48:14 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:48:45 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:48:45 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:55:14 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:55:32 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:55:33 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:55:59 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:55:59 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 13:56:23 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:56:25 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 13:57:17 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\user.service.scala
+2020.08.06 14:12:13 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 14:13:08 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 14:13:28 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.06 14:13:31 WARN  no build tool detected in workspace 'D:\Old\scala-play-framework-demo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala in List[<error>]RangePosition(file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala, 38, 38, 59)
+something's wrong: no file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala in List[<error>]RangePosition(file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala, 38, 38, 52)
+something's wrong: no file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala in List[User]RangePosition(file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala, 38, 38, 48)
+something's wrong: no file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala in List[User]RangePosition(file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala, 38, 38, 48)
+something's wrong: no file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala in List[User]RangePosition(file:///d%3A/Old/scala-play-framework-demo/scala-play-framework-demo/app/services/user.service.scala, 38, 38, 48)
+2020.08.06 14:16:49 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\user.service.scala
+2020.08.06 14:16:49 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\user.service.scala
+2020.08.06 14:16:52 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\user.service.scala
+2020.08.06 14:16:56 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\user.service.scala
+2020.08.06 14:16:56 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\user.service.scala
+2020.08.06 14:17:00 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\user.service.scala
+2020.08.06 14:18:35 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\user.service.scala
+2020.08.06 15:00:32 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\user.service.scala
+2020.08.06 15:00:46 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\services\UserService.scala
+2020.08.06 16:24:20 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 16:24:20 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 16:24:23 WARN  no build target for: D:\Old\scala-play-framework-demo\scala-play-framework-demo\app\controllers\HomeController.scala
+2020.08.06 17:57:09 INFO  shutting down Metals
